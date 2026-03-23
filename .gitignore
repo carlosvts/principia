@@ -1,3 +1,15 @@
+.iso
+/binutils-gdb/
+binutils-gdb
+binutils-gdb/
+gcc
+/gcc/
+gcc/
+*.elf 
+.elf
+iso_root
+iso_root/
+
 # Prerequisites
 *.d
 
